@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "nombre": "Consola PlayStation 5 - Standard Edition",
+        "nombre_Comercial":"PlayStation 5",
+        "precio": 12590,
+        "descripcion": "LA MEJOR CALIDAD DE 'IMAGEN': Maravíllate con asombrosos gráficos y descubre las nuevas funciones de PS5. La función ray tracing te permitirá sumergirte en mundos con un mayor grado de realismo porque simulará rayos de luz de forma individual.",
+        "imagen": "./assets/ps5.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Consola Xbox Series S - Standard Edition",
+        "nombre_Comercial":"Xbox Series S",
+        "precio": 6490,
+        "descripcion": "Presentamos el Xbox Series S, la consola Xbox más pequeña y elegante de la historia. Experimenta la velocidad y el rendimiento de una consola totalmente digital de próxima generación accesible.",
+        "imagen": "./assets/xbox.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Nintendo Switch OLED - Standard Edition (Internacional)",
+        "nombre_Comercial":"Nintendo Switch",
+        "precio": 7289,
+        "descripcion": "Pantalla OLED de 7 pulgadas (17.78 cm) - Disfruta de colores brillantes y contrastes definidos en una pantalla que hace que los colores sean más intensos Soporte ajustable y amplio - Ajusta el soporte para encontrar ángulo de vista en el modo semiportátil",
+        "imagen": "./assets/nintendo.jpeg"
+    },
+    {
+        "id": 4,
+        "nombre": "ASUS ROG Strix GL10 Computadora de escritorio para juegos",
+        "nombre_Comercial":"PC Gamer",
+        "precio": 20300,
+        "descripcion": "Gráficos AMD Radeon Graphics con frecuencia de 1900 MHz y 7 núcleos lo que proporciona un rendimiento rápido.",
+        "imagen": "./assets/PC.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Nintendo Switch OLED - Standard Edition (Internacional)",
+        "nombre_Comercial":"Nintendo Switch",
+        "precio": 7289,
+        "descripcion": "Pantalla OLED de 7 pulgadas (17.78 cm) - Disfruta de colores brillantes y contrastes definidos en una pantalla que hace que los colores sean más intensos Soporte ajustable y amplio - Ajusta el soporte para encontrar ángulo de vista en el modo semiportátil",
+        "imagen": "./assets/nintendo.jpeg"
+    },
+    {
+        "id": 1,
+        "nombre": "Consola PlayStation 5 - Standard Edition",
+        "precio": 12590,
+        "nombre_Comercial":"PlayStation 5",
+        "descripcion": "LA MEJOR CALIDAD DE 'IMAGEN: Maravíllate con asombrosos gráficos y descubre las nuevas funciones de PS5. La función ray tracing te permitirá sumergirte en mundos con un mayor grado de realismo porque simulará rayos de luz de forma individual.",
+        "imagen": "./assets/ps5.jpg"
+    }
+]

@@ -1,0 +1,238 @@
+body{
+    background-color: #F7F7F7 ;
+}
+
+.container-fluid{
+    color: white;
+}
+
+
+.container-fluid{
+    padding-bottom: 1%;
+}
+
+
+.navbar-brand{
+    padding-top: 1%;
+}
+
+.seccion_titulo{
+    border-top: 1px #D0D1CC   solid;
+    background-color: #F7F7F7 ;
+    color: black;
+    padding: 2%;
+    padding-left: 4%;
+    margin-top: 3%;
+    padding-bottom: 1%;
+    margin-bottom: 0%;
+    
+}
+
+.color{
+    background-color:#F7F7F7  ;
+    
+}
+
+.row{
+    margin-left: 5%;
+    padding-bottom: 6%;
+}
+
+.img-fluid{
+    margin-bottom: 4%;
+    
+}
+
+.card{
+    margin-left: 2%;
+    margin-top: 1%;
+}
+
+footer{
+    margin-top: 5%;
+    margin-left: 33%;
+    
+    background-color: white;
+}
+
+.card-text{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.d-flex{
+    margin-right: 48%;
+    padding-top: 1%;
+}
+
+#botonNavbar{
+    background-color: #0EA1DD   ;
+    color: white;
+    border-color: #0EA1DD;
+}
+
+#botonNavbar:hover{
+    background-color: #3981DC     ;
+   
+}
+
+
+#banner{
+    margin-right: 7%;
+    margin-left: 7%;
+    margin-top: 4%;
+
+    
+}
+
+.card-img-bottom{
+    border-radius: 0% 0% 2% 1% ;
+}
+
+.footerColor{
+    background-color: white;
+    padding-bottom:20%;
+    
+}
+
+h2{
+    padding-bottom: 2%;
+}
+
+#ml{
+    
+    height: 60px;
+}
+
+#boton-comprar{
+    background-color: #7CD657;
+    border-color: #7CD657;
+}
+
+#boton-comprar:hover{
+    background-color: #67B448;
+    border-color: #67B448;
+}
+
+.modal-header{
+   background-color: #031224 ; 
+   color: white;
+}
+
+.form-control{
+    border-color: #DADADA ;
+    
+}
+
+.form-control::placeholder {
+    color: black;
+    
+}
+
+.footerColor{
+    padding-top: 1%;
+
+}
+
+
+  /*Pagina Producto */
+
+
+
+
+
+
+.Contenedor_details{
+    display: grid;
+    grid-template-columns:3fr 2.8fr; 
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-top: 5%;
+    padding-bottom: 50px;
+    background-color: white;
+    margin-left: 13%;
+    margin-right: 13%;
+    margin-top: 3%;
+   
+}
+
+.column2{
+    padding-bottom: 80px;
+
+}
+
+
+#img {
+    float: left;
+    padding-right: 20px;
+    width: 90%;
+    height: auto;
+    box-shadow: inset;
+ 
+    
+}
+
+
+.Descripcion_img{
+    padding-top: 10px;
+    font-size: larger;
+}
+
+.Precio{
+    padding-top: 5%;
+    font-size:30px
+}
+
+.vendido_por{
+    color: purple;
+}
+
+.vendido_por:hover{
+    color: black;
+    cursor: pointer;
+}
+
+.btns{
+    margin-top: 30px;
+}
+
+.btns>.boton_details:hover{
+    color: black;
+    
+}
+.btns>.boton_details1:hover{
+    color: black;
+    
+}
+
+.boton_details{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.boton_details1{
+    background-color: #008CBA; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.regresar a{
+
+    color: black;
+    font-style: none;
+}
