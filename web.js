@@ -70,11 +70,11 @@ document.addEventListener("DOMContentLoaded", () => {
 
       
       //boton_ver
-      const miNodoBotonVer = document.createElement("a");
-      miNodoBotonVer.classList.add("btn", "btn-success");
-      miNodoBotonVer.textContent = "Ver Producto"; // es el signo de agregar a carrito
-      miNodoBotonVer.setAttribute("marcador", info.id);
-      miNodoBotonVer.setAttribute("href", "producto.html");   
+      //const miNodoBotonVer = document.createElement("a");
+      //miNodoBotonVer.classList.add("btn", "btn-success");
+     //miNodoBotonVer.textContent = "Ver Producto"; // es el signo de agregar a carrito
+      //miNodoBotonVer.setAttribute("marcador", info.id);
+     //miNodoBotonVer.setAttribute("href", "producto.html");   
      
 
       //Insertamos
@@ -83,7 +83,7 @@ document.addEventListener("DOMContentLoaded", () => {
       miNodoBody.appendChild(miNodoDescripcion); //
       miNodoBody.appendChild(miNodoPrecio);
       miNodoBody.appendChild(miNodoBoton);
-      miNodoBody.appendChild(miNodoBotonVer);
+      //miNodoBody.appendChild(miNodoBotonVer);
       miNodo.appendChild(miNodoBody);
       DOMitems.appendChild(miNodo);
 
